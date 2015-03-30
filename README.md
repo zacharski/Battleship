@@ -10,4 +10,5 @@ You all know how the battleship game works. I give you code to construct the ini
 * move
 * play
 
-### 100 XP
+### 100 XP for solitaire game
+### up to 150XP for 2 player (human vs. computer)
